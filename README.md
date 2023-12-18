@@ -1,6 +1,6 @@
 # Nike Landing Page with React.js and Tailwind CSS
 
-![Nike Landing Page](./screenshot.jpg)
+![Nike Landing Page](./[screenshot.jpg](https://github.com/anubhab-m02/Nike-Landing-Page/blob/main/public/screenshot.jpg?raw=true))
 
 ## Overview
 
