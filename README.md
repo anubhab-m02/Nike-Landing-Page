@@ -20,5 +20,5 @@ This project is a single-page landing page inspired by Nike's design, built usin
 
 - Node.js and npm installed on your machine
 
-*Running the Application*
+##Running the Application
 npm run dev
