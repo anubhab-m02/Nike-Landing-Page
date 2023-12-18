@@ -1,6 +1,6 @@
 # Nike Landing Page with React.js and Tailwind CSS
 
-![Nike Landing Page](./screenshot.png)
+![Nike Landing Page](./screenshot.jpg)
 
 ## Overview
 
@@ -20,5 +20,6 @@ This project is a single-page landing page inspired by Nike's design, built usin
 
 - Node.js and npm installed on your machine
 
-##Running the Application
+## Running the Application
+
 npm run dev
